@@ -75,11 +75,4 @@ Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
 Top level modules:
 	on_line_adder_block
 
-} {} {}} /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/Multiplier_v2.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/Multiplier_v2.v
-Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
--- Compiling module Multiplier_v2
-
-Top level modules:
-	Multiplier_v2
-
 } {} {}}
