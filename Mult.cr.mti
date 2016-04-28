@@ -5,13 +5,6 @@ Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
 Top level modules:
 	add_control
 
-} {} {}} /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/computation_control_v2.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/computation_control_v2.v
-Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
--- Compiling module computation_control_v2
-
-Top level modules:
-	computation_control_v2
-
 } {} {}} /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/four_bits_adder.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/four_bits_adder.v
 Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
 -- Compiling module four_bits_adder
