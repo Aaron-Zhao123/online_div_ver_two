@@ -1,0 +1,67 @@
+module D_FF(
+in,
+out,
+clk,
+enable,
+asyn_reset
+);
+parameter width = 2;
+parameter delay = 1;
+
+
+input clk;
+input [width-1 :0] in;
+input enable;
+input asyn_reset;
+output [width-1 :0] out;
+
+wire [width-1:0][delay:0] d_wire;
+genvar i;
+
+assign d_wire[0] = in;
+assign out = d_wire[delay];
+generate 
+	for (i = 0; i < delay; i = i+1) begin: D_FF_CHAIN
+		D_FF_basic D_ff(
+			d_wire[i],
+			d_wire[i+1],
+			clk,
+			enable,
+			asyn_reset
+		);
+	end
+endgenerate
+
+endmodule
+
+module D_FF_basic (
+in,
+out,
+clk,
+enable,
+asyn_reset,
+);
+parameter width = 2;
+input clk;
+input [width-1 :0] in;
+input enable;
+input asyn_reset;
+output [width-1 :0] out;
+reg [width-1 :0] out;
+
+always @ (posedge clk or posedge asyn_reset) begin
+	if (asyn_reset) begin
+		out <= 0;
+	end
+	else begin
+		if (enable) begin
+			out <= in;
+		end
+	end
+end
+endmodule
+
+
+
+
+

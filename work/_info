@@ -1,0 +1,317 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two
+vadd_control
+Z1 !s110 1460360770
+!i10b 1
+!s100 F_eBOF>UGL3e7]E[R2On_3
+IG<XJN]@@jX@`L31>8d7a]1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1460100560
+8/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/add_control.v
+F/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/add_control.v
+L0 1
+Z3 OV;L;10.4b;61
+r1
+!s85 0
+31
+Z4 !s108 1460360770.000000
+!s107 /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/add_control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/add_control.v|
+!i113 1
+Z5 o-work work
+vcomputation_control_v2
+Z6 !s110 1460360769
+!i10b 1
+!s100 LhTLj:DSL3_N3N9oKEajT1
+Ibo[O3Kn:lR^Shd<]lPN5B0
+R2
+R0
+w1460131074
+8/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/computation_control_v2.v
+F/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/computation_control_v2.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z7 !s108 1460360769.000000
+!s107 /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/computation_control_v2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/computation_control_v2.v|
+!i113 1
+R5
+vD_FF
+R6
+!i10b 1
+!s100 ^k:hUk>MgoDS;H>Je>7X03
+Ii8C<95P86OzC8zmPUX17a2
+R2
+R0
+w1459858363
+Z8 8/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/D_ff_arb_delay.v
+Z9 F/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/D_ff_arb_delay.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+Z10 !s107 /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/D_ff_arb_delay.v|
+Z11 !s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/D_ff_arb_delay.v|
+!i113 1
+R5
+n@d_@f@f
+vD_FF_basic
+!s110 1459840195
+!i10b 1
+!s100 0XKgA8n<3LGV26O5>5L<O0
+I19R<=6b1FYbEOMbKSnAe[3
+R2
+R0
+w1459839829
+R8
+R9
+L0 37
+R3
+r1
+!s85 0
+31
+!s108 1459840195.000000
+R10
+R11
+!i113 1
+R5
+n@d_@f@f_basic
+vfour_bits_adder
+R1
+!i10b 1
+!s100 9nE]E2f9nM8P4gHji:3f33
+I@kN3fgdQGAYD`iagO^@6H0
+R2
+R0
+w1459933111
+8/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/four_bits_adder.v
+F/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/four_bits_adder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/four_bits_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/four_bits_adder.v|
+!i113 1
+R5
+vfour_bits_parallel_adder
+R1
+!i10b 1
+!s100 :<@GH=7T6^0ia:6Rn_aFW2
+I6[bkg`9gBAm:3oJP^04md2
+R2
+R0
+w1460360754
+8/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/four_bits_parallel_adder.v
+F/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/four_bits_parallel_adder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/four_bits_parallel_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/four_bits_parallel_adder.v|
+!i113 1
+R5
+vfull_adder
+R1
+!i10b 1
+!s100 fmgAdKozm0iQm:=b77TN[2
+Il8BKa9mMf9GH88AM[F:KE2
+R2
+R0
+Z12 w1459472902
+8/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/full_adder.v
+F/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/full_adder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/full_adder.v|
+!i113 1
+R5
+vgenerate_CA_reg_v2
+R6
+!i10b 1
+!s100 8@_D:>`YgOE[FKea8hoDd0
+IT]=`Zd_;<iGc]>dT9gGRJ2
+R2
+R0
+w1460345883
+8/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/generate_CA_reg_ver_two.v
+F/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/generate_CA_reg_ver_two.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/generate_CA_reg_ver_two.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/generate_CA_reg_ver_two.v|
+!i113 1
+R5
+ngenerate_@c@a_reg_v2
+vMultiplier_v2
+R6
+!i10b 1
+!s100 ciXZUP4lbD0@>VHVkBc:E3
+I3[5ek6c?E:Te9kH:e=8z<3
+R2
+R0
+w1460342313
+8/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/Multiplier_v2.v
+F/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/Multiplier_v2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/Multiplier_v2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/Multiplier_v2.v|
+!i113 1
+R5
+n@multiplier_v2
+von_line_adder_block
+R1
+!i10b 1
+!s100 iam6ekI`KZ3``=Z9h1>2I2
+I[XR:eNo_a5e1E^^UFRc4a1
+R2
+R0
+R12
+8/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/on_line_adder_block.v
+F/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/on_line_adder_block.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/on_line_adder_block.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/on_line_adder_block.v|
+!i113 1
+R5
+vSDVM_v2
+R6
+!i10b 1
+!s100 F=]eA:L8B15B3dGGc0d621
+I@`Sm9Dz3hJAKSD9^NBOEH3
+R2
+R0
+w1460342351
+8/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/SDVM_v2.v
+F/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/SDVM_v2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/SDVM_v2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/SDVM_v2.v|
+!i113 1
+R5
+n@s@d@v@m_v2
+vsingle_clk_ram_64bits
+R6
+!i10b 1
+!s100 d^EoLjQ__?SNDVWe[Ho2Y1
+IfFAo3N@jVnT^FNYTkR6a@2
+R2
+R0
+w1459829919
+8/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/single_clk_ram_64bits.v
+F/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/single_clk_ram_64bits.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/single_clk_ram_64bits.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/single_clk_ram_64bits.v|
+!i113 1
+R5
+vtestbench_mult_hd
+R6
+!i10b 1
+!s100 GS6Io9OR[8IV]SHILHPWO1
+I_Wk2jCf0?0MVgchPmja`V1
+R2
+R0
+w1460116211
+8/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/testbench_mul_v2.v
+F/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/testbench_mul_v2.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/testbench_mul_v2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/testbench_mul_v2.v|
+!i113 1
+R5
+vV_frac_bits_v2
+R1
+!i10b 1
+!s100 0<Q3me3o684HnD9DIj^>e2
+I>^399j1aW`Jg=oC^WmnAD1
+R2
+R0
+w1460167050
+8/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/V_frac_bits_v2.v
+F/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/V_frac_bits_v2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/V_frac_bits_v2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/V_frac_bits_v2.v|
+!i113 1
+R5
+n@v_frac_bits_v2
+vV_upper_bits_v2
+R1
+!i10b 1
+!s100 8oNPNK1DClEbZ@<R1k@XO3
+IO73gEM]m1EUO=Ih8OH4;Q3
+R2
+R0
+w1460360765
+8/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/V_upper_bits_v2.v
+F/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/V_upper_bits_v2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/V_upper_bits_v2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/V_upper_bits_v2.v|
+!i113 1
+R5
+n@v_upper_bits_v2
