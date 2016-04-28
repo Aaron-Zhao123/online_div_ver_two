@@ -70,8 +70,8 @@ always @ (posedge clk or posedge asyn_reset) begin
 		finish_vec = 0;
 	end
 	else begin
-		case (STATE) 
-			if (enable_comp) begin
+		if (enable_comp) begin
+			case (STATE) 
 				IDLE: begin
 					if (counter >= unrolling + online_delay) begin
 						STATE <= COMP;

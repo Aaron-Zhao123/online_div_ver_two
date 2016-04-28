@@ -1,23 +1,16 @@
-/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/V_upper_bits_v2.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/V_upper_bits_v2.v
-Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
--- Compiling module V_upper_bits_v2
-
-Top level modules:
-	V_upper_bits_v2
-
-} {} {}} /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/V_frac_bits_v2.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/V_frac_bits_v2.v
-Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
--- Compiling module V_frac_bits_v2
-
-Top level modules:
-	V_frac_bits_v2
-
-} {} {}} /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/add_control.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/add_control.v
+/home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/add_control.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/add_control.v
 Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
 -- Compiling module add_control
 
 Top level modules:
 	add_control
+
+} {} {}} /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/computation_control_v2.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/computation_control_v2.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module computation_control_v2
+
+Top level modules:
+	computation_control_v2
 
 } {} {}} /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/four_bits_adder.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/four_bits_adder.v
 Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
@@ -68,11 +61,25 @@ Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
 Top level modules:
 	full_adder
 
+} {} {}} /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/testbench_mul_v2.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/testbench_mul_v2.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module testbench_mult_hd
+
+Top level modules:
+	testbench_mult_hd
+
 } {} {}} /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/on_line_adder_block.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/on_line_adder_block.v
 Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
 -- Compiling module on_line_adder_block
 
 Top level modules:
 	on_line_adder_block
+
+} {} {}} /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/Multiplier_v2.v {1 {vlog -work work -stats=none /home/aaron/verilog/Online_ver_two/mult_hd/mul_ver_two/Multiplier_v2.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Multiplier_v2
+
+Top level modules:
+	Multiplier_v2
 
 } {} {}}
